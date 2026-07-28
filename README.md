@@ -60,7 +60,6 @@ I believe in learning by *building* — every project below was built hands-on, 
 | **[Pet Care Management App](https://github.com/YOUR-USERNAME/pet-care-app)** | Multi-pet care tracker with photo upload | React · Anthropic API |
 | **[Alexis – Voice Assistant](https://github.com/YOUR-USERNAME/alexis-voice-assistant)** | Desktop voice assistant that listens, thinks, and talks back | Python · SpeechRecognition · gTTS |
 
-> 🚧 Next up: CVE Chatbot, Network Log Anomaly Explainer, Resume-to-Job Matcher (Agentic RAG)
 
 ---
 
