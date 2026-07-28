@@ -21,13 +21,14 @@ AI / ML / RAG
 <p align="left"> <img src="https://img.shields.io/badge/LangChain-1A1A2E?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square&logo=databricks&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-1A1A2E?style=flat-square&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Anthropic%20API-1A1A2E?style=flat-square&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Groq-1A1A2E?style=flat-square&logo=groq&logoColor=white"> </p>
 📌 Featured Projects
 Project	What it does	Stack
-Security Docs Q&A Bot	RAG chatbot that answers questions over security documents	LangChain · ChromaDB · Streamlit · Groq API
-Cal AI Clone	Mobile-style calorie tracker with photo-based food logging	React · Claude Vision API · Data viz
-Pet Care Management App	Multi-pet care tracker with photo upload	React · Anthropic API
-Alexis – Voice Assistant	Desktop voice assistant that listens, thinks, and talks back	Python · SpeechRecognition · gTTS
+Security Docs Q&A Bot	RAG chatbot for querying security documentation	LangChain · ChromaDB · Groq API
+RAG Chat with PDF	Chat interface that answers questions over uploaded PDFs	Python · RAG pipeline
+Cal AI Clone	Mobile-style calorie tracker with photo-based food logging	Python
+Expense Tracker	Track and categorize personal expenses	Python
 
-⚠️ Repo links use guessed names — swap in your exact repo names from the Repositories tab so the links actually work.
+🔒 Also building a Personal Assistant Agent (tool calling + automation) — currently a private repo, make it public when ready to feature it here.
 
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=zara-codes24&show_icons=true&theme=react&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zara-codes24&layout=compact&theme=react&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zara-codes24&theme=react&hide_border=true" /> </p>
+
 <p align="center"><i>Thanks for stopping by — let's connect and build something! 🚀</i></p>
