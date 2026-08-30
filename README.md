@@ -3,11 +3,11 @@ Who I Am
 
 I'm learning to become an AI Engineer, coming from a Cyber Security background. I'm currently focused on:
 
-🔍 RAG systems — retrieval pipelines, chunking, embeddings, vector DBs
-🦜 LangChain — building real Q&A and chatbot projects
+🔍 RAG systems: retrieval pipelines, chunking, embeddings, vector DBs
+🦜 LangChain: building real Q&A and chatbot projects
 🐍 Strong foundations in Python, SQL, and applied math for ML
 
-I believe in learning by building — every project below was built hands-on, bugs and all.
+I believe in learning by building , every project below was built hands-on, bugs and all.
 
 🌱 Currently Learning
 🤖 Deepening my understanding of the RAG pipeline (retrieval → chunking → embeddings → generation)
@@ -26,9 +26,9 @@ RAG Chat with PDF	Chat interface that answers questions over uploaded PDFs	Pytho
 Cal AI Clone	Mobile-style calorie tracker with photo-based food logging	Python
 Expense Tracker	Track and categorize personal expenses	Python
 
-🔒 Also building a Personal Assistant Agent (tool calling + automation) — currently a private repo, make it public when ready to feature it here.
+🔒 Also building a Personal Assistant Agent (tool calling + automation) , currently a private repo, make it public when ready to feature it here.
 
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=zara-codes24&show_icons=true&theme=react&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zara-codes24&layout=compact&theme=react&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zara-codes24&theme=react&hide_border=true" /> </p>
 
-<p align="center"><i>Thanks for stopping by — let's connect and build something! 🚀</i></p>
+<p align="center"><i>Thanks for stopping by , let's connect and build something! 🚀</i></p>
