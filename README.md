@@ -19,7 +19,7 @@ I believe in learning by building , every project below was built hands-on, bugs
 AI / ML / RAG
 
 <p align="left"> <img src="https://img.shields.io/badge/LangChain-1A1A2E?style=flat-square&logo=langchain&logoColor=white"> <img src="https://img.shields.io/badge/ChromaDB-1A1A2E?style=flat-square&logo=databricks&logoColor=white"> <img src="https://img.shields.io/badge/Streamlit-1A1A2E?style=flat-square&logo=streamlit&logoColor=white"> <img src="https://img.shields.io/badge/Anthropic%20API-1A1A2E?style=flat-square&logo=anthropic&logoColor=white"> <img src="https://img.shields.io/badge/Groq-1A1A2E?style=flat-square&logo=groq&logoColor=white"> </p>
-📌 Featured Projects
+📌Featured Projects
 Project	What it does	Stack
 Security Docs Q&A Bot	RAG chatbot for querying security documentation	LangChain · ChromaDB · Groq API
 RAG Chat with PDF	Chat interface that answers questions over uploaded PDFs	Python · RAG pipeline
