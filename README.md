@@ -1,7 +1,7 @@
 <h1 align="center">Hi,I am Zara Akbar</h1> <h3 align="center">Python Developer | Beginner Full Stack Learner | Building Projects Daily</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+RAG+systems+with+LangChain;Learning+AI%2FML+one+project+at+a+time;From+Cyber+Security+to+AI+Engineering" alt="Typing SVG" /> </p> <p align="center"> </p>
 Who I Am
 
-I'm learning to become an AI Engineer, coming from a Cyber Security background. I'm currently focused on:
+I'm learning to become an AI Engineer, coming from a Cyber Security background.I'm currently focused on:
 
 🔍 RAG systems: retrieval pipelines, chunking, embeddings, vector DBs 
 LangChain: building real Q&A and chatbot projects Strong foundations in Python, SQL, and applied math for ML
