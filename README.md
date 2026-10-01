@@ -3,7 +3,7 @@ Who I Am
 
 I'm learning to become an AI Engineer, coming from a Cyber Security background.I'm currently focused on:
 
-🔍 RAG systems: retrieval pipelines, chunking, embeddings, vector DBs 
+RAG systems: retrieval pipelines, chunking, embeddings, vector DBs 
 LangChain: building real Q&A and chatbot projects Strong foundations in Python, SQL, and applied math for ML
 
 I believe in learning by building , every project below was built hands-on, bugs and all.
