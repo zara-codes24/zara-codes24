@@ -8,7 +8,7 @@ LangChain: building real Q&A and chatbot projects Strong foundations in Python, 
 
 I believe in learning by building , every project below was built hands-on, bugs and all.
 
-🌱 Currently Learning
+Currently Learning
 🤖 Deepening my understanding of the RAG pipeline (retrieval → chunking → embeddings → generation)
 📊 Core ML libraries: NumPy · Pandas · Scikit-learn · Matplotlib
 🎯 Working toward free certifications: Kaggle Learn, LangChain Academy, Anthropic Academy
