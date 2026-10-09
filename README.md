@@ -11,7 +11,7 @@ I believe in learning by building ,every project below was built hands-on, bugs 
 Currently Learning
 Deepening my understanding of the RAG pipeline (retrieval → chunking → embeddings → generation)
 Core ML libraries: NumPy · Pandas · Scikit-learn · Matplotlib
-🎯 Working toward free certifications: Kaggle Learn, LangChain Academy, Anthropic Academy
+ Working toward free certifications: Kaggle Learn, LangChain Academy, Anthropic Academy
 🧰 Tech Stack
 <p align="left"> <img src="https://go-skill-icons.vercel.app/api/icons?i=python,fastapi,mysql,sqlite,git,vscode&theme=dark" /> </p>
 
