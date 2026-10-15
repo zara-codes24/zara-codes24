@@ -25,7 +25,7 @@ RAG Chat with PDF	Chat interface that answers questions over uploaded PDFs	Pytho
 Cal AI Clone	Mobile-style calorie tracker with photo-based food logging	Python
 Expense Tracker	Track and categorize personal expenses	Python
 
-🔒 Also building a Personal Assistant Agent (tool calling + automation) , currently a private repo, make it public when ready to feature it here.
+🔒Also building a Personal Assistant Agent (tool calling + automation) , currently a private repo, make it public when ready to feature it here.
 
 📊 GitHub Stats
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=zara-codes24&show_icons=true&theme=react&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zara-codes24&layout=compact&theme=react&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=zara-codes24&theme=react&hide_border=true" /> </p>
