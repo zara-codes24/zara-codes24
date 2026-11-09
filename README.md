@@ -9,7 +9,7 @@
 ## Who I Am 
 
 
-I'm a self-taught developer with a Cyber Security background, learning to become an AI Engineer. I'm currently focused on:
+I'm a self taught developer with a Cyber Security background, learning to become an AI Engineer. I'm currently focused on:
 
 - **RAG systems**: retrieval pipelines, chunking, embeddings, vector DBs
 - **LLM apps & agents**: LangChain, tool calling, API integrations, automation
