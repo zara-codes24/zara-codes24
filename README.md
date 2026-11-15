@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+RAG+systems+with+LangChain;Tool-calling+agents+and+LLM+APIs;Data+analysis+with+Pandas+%26+SQL;From+Cyber+Security+to+AI+Engineering" alt="Typing SVG" />
 </p>
 
-
 ## Who I Am 
 
 I'm a self taught developer with a Cyber Security background, learning to become an AI Engineer. I'm currently focused on:
